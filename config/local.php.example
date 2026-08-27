@@ -1,0 +1,6 @@
+<?php
+// Copy this file to config/local.php and replace values for your local machine.
+define('SCM_DB_HOST', '127.0.0.1');
+define('SCM_DB_NAME', 'student_complaint_management');
+define('SCM_DB_USER', 'root');
+define('SCM_DB_PASS', '');
